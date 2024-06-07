@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Ones from the Stars",
+        "type": "Pantheon",
+        "uniques": ["[+1 Happiness] from every [Observatory]"]
+    },
+    {
+        "name": "City under the Sea",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [Ocean]"]
+    },
+    {
+        "name": "Unknown Hieroglyph",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from every [University]"]
+    },
+    {
+        "name": "Madness",
+        "type": "Follower",
+        "uniques": ["[-5]% [Science] [in cities following this religion]"]
+    },
+    {
+        "name": "Secrecy",
+        "type": "Follower",
+        "uniques": [
+            "Religion naturally spreads to cities [-10] tiles away <hidden from users>",
+            "Comment [Limit the area where the religion can spread]"
+        ]
+    },
+    {
+        "name": "Unmoral Sacrifice",
+        "type": "Follower",
+        "uniques": [
+            "[+1 Gold] [{in coastal cities} {in cities following this religion}] <hidden from users>",
+            "Comment [+1 Gold in coastal cities following this religion]",
+            "[+1 Food] from every [Fishing Boats]",
+            "[-5]% growth [in cities following this religion]",
+            "[-5]% Great Person generation [in cities following this religion]"
+        ]
+    },
+    {
+        "name": "Wizardry",
+        "type": "Enhancer",
+        "uniques": [
+            "Only available <after adopting [Madness]>",
+            "May buy [Invisible Thing] units for [10000] [Faith] [in all cities] at an increasing price ([15000]) <hidden from users>",
+            "Comment [May buy Invisible Thing units with Faith in cities with a Ring of Stones]"
+        ]
+    }
+]

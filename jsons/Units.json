@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Invisible Thing",
+        "unitType": "Undimensioned",
+        "movement": 1,
+        "strength": 30,
+        "uniques": [
+            "Only available <in cities with a [Ring of Stones]> <after adopting [Wizardry]> <after adopting [Madness]> <hidden from users>",
+            "Comment [Only available after adopting Wizardry, and only in cities with a Ring of Stones]",
+            "Unbuildable",
+            "Destroys tile improvements when attacking",
+            "No movement cost to pillage",
+            "Invisible to others",
+            "Can pass through impassable tiles",
+            "Unable to capture cities",
+            "Limited to [1] per Civilization",
+            "Never appears as a Barbarian unit <hidden from users>"
+            "Hidden when religion is disabled <hidden from users>",
+        ]
+    }
+]

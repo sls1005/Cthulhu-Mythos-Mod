@@ -1,0 +1,12 @@
+[
+    {
+		"name": "Ring of Stones",
+		"cost": 100,
+		"requiredNearbyImprovedResources": ["Stone", "Marble"],
+		"uniques": [
+		    "Only available <after adopting [Wizardry]> <after adopting [Madness]> <hidden from users>",
+		    "Comment [Only available after adopting Wizardry]",
+            "Hidden when religion is disabled <hidden from users>"
+        ]
+	}
+]
