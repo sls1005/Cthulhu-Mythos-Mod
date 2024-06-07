@@ -24,7 +24,7 @@
         "type": "Follower",
         "uniques": [
             "Religion naturally spreads to cities [-10] tiles away <hidden from users>",
-            "Comment [Limit the area where the religion can spread]"
+            "Comment [Limit the extent to which the religion can spread]"
         ]
     },
     {
