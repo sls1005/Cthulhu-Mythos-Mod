@@ -5,7 +5,8 @@
         "uniques": [
             "This Unit takes [100] damage",
             "Only available <when [non-[Undimensioned]]>"
-        ]
+        ],
+        "excludedDifficulties": ["Settler", "Chieftain", "Warlord"]
     },
     {
         "name": "discover something undescribable",
@@ -23,6 +24,7 @@
         "uniques": [
             "This Unit takes [25] damage",
             "Only available <when [non-[Undimensioned]]>"
-        ]
+        ],
+        "excludedDifficulties": ["Settler", "Chieftain"]
     }
 ]
