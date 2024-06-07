@@ -1,7 +1,7 @@
 [
     {
         "name": "something terrible happens",
-        "notification": "Something terrible happened when the unit was trying to explore the ruins! (100 damage)",
+        "notification": "Something terrible happened when the unit was trying to explore the ruins. (100 damage)",
         "uniques": [
             "This Unit takes [100] damage",
             "Only available <when [non-[Undimensioned]]>"
