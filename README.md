@@ -1,4 +1,4 @@
-This is a mod for the Unciv game. It adds things from the Cthulhu Mythos, based on the works of H. P. Lovecraft. The things this adds are mostly beliefs and ruins. It also adds icons for some cults.
+This is a mod for the Unciv game. It adds things from the Cthulhu Mythos, based on H. P. Lovecraft's works. The things this adds are mostly beliefs and ruins. It also adds icons for some cults.
 
 This is a non-profit project. It is unrelated with the author(s) of the stories.
 
