@@ -11,6 +11,7 @@
             "Destroys tile improvements when attacking",
             "No movement cost to pillage",
             "Invisible to others",
+            "Ignores Zone of Control",
             "Can pass through impassable tiles",
             "Uncapturable",
             "Unable to capture cities",
