@@ -12,10 +12,11 @@
             "No movement cost to pillage",
             "Invisible to others",
             "Can pass through impassable tiles",
+            "Uncapturable",
             "Unable to capture cities",
             "Limited to [1] per Civilization",
-            "Never appears as a Barbarian unit <hidden from users>"
-            "Hidden when religion is disabled <hidden from users>",
+            "Never appears as a Barbarian unit <hidden from users>",
+            "Hidden when religion is disabled <hidden from users>"
         ]
     }
 ]
