@@ -1,9 +1,16 @@
 
 game.png
-size: 512, 128
+size: 1024, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Ring of Stones
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ReligionIcons/Cthulhu Cult
   rotate: false
   xy: 4, 4
@@ -13,14 +20,14 @@ ReligionIcons/Cthulhu Cult
   index: -1
 ReligionIcons/Starry Wisdom
   rotate: false
-  xy: 220, 4
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/The Esoteric Order of Dagon
   rotate: false
-  xy: 328, 4
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
