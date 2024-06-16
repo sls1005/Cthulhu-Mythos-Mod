@@ -11,7 +11,7 @@
     {
         "name": "discover something undescribable",
         "weight": 4,
-        "notification": "Our unit discovered something in the ruins, but failed to describle it. (+10 XP)",
+        "notification": "Our unit discovered something in the ruins but failed to describle it. (+10 XP)",
         "uniques": [
             "This Unit gains [10] XP",
             "Only available <when [non-[Undimensioned]]>"
@@ -20,7 +20,7 @@
     {
         "name": "encounter something undescribable",
         "weight": 3,
-        "notification": "Our unit encountered something in the ruins, but failed to describle it. (25 damage)",
+        "notification": "Our unit encountered something in the ruins but failed to describle it. (25 damage)",
         "uniques": [
             "This Unit takes [25] damage",
             "Only available <when [non-[Undimensioned]]>"
