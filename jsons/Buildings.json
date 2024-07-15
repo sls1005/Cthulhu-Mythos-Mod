@@ -5,8 +5,7 @@
         "requiredNearbyImprovedResources": ["Stone", "Marble"],
         "uniques": [
             "Cannot be purchased",
-            "Only available <after adopting [Wizardry]> <after adopting [Madness]> <hidden from users>",
-            "Comment [Only available after adopting Wizardry]",
+            "Only available <after adopting [Wizardry]>",
             "Hidden when religion is disabled <hidden from users>"
         ]
     }
