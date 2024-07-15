@@ -5,9 +5,9 @@
         "movement": 1,
         "strength": 30,
         "uniques": [
-            "Only available <in cities with a [Ring of Stones]> <after adopting [Wizardry]> <after adopting [Madness]> <hidden from users>",
-            "Comment [Only available after adopting Wizardry, and only in cities with a Ring of Stones]",
             "Unbuildable",
+            "Unavailable <before discovering [Wizardry]>",
+            "Unavailable <in cities without a [Ring of Stones]>",
             "No movement cost to pillage",
             "Invisible to others",
             "Ignores Zone of Control",

@@ -45,6 +45,16 @@
             "Only available <after adopting [Madness]>",
             "May buy [Invisible Thing] units for [10000] [Faith] [in all cities] at an increasing price ([15000]) <hidden from users>",
             "Comment [May buy Invisible Thing units with Faith in cities with a Ring of Stones]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "See 'Invisible Thing'",
+                "link": "Units/Invisible Thing"
+            },
+            {
+                "text": "See 'Ring of Stones'",
+                "link": "Buildings/Ring of Stones"
+            }
         ]
     }
 ]
